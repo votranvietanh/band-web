@@ -1,0 +1,23 @@
+@media  (min-width: 1024px)
+    {
+
+    }
+/* tablet */
+@media (min-width: 740px) and (max-width:1023px)
+{
+
+}
+@media (max-width: 740px)
+{
+    #nav{
+        display: block ;
+        
+    }
+    
+    #nav > li {
+        display: block;
+    }
+#header .search-btn{
+    display: none;
+}
+}
